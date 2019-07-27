@@ -1,0 +1,74 @@
+﻿生成启动时间为 2019/7/19 19:14:08。
+     1>项目“D:\vs2015program\飞鸟_三排\飞鸟_三排\FlyBird\FlyBird.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /FUInterop\Interop.WMPLib.1.0.dll /FUInterop\AxInterop.WMPLib.1.0.dll /errorReport:prompt /clr:nostdlib Bird.cpp CommonHelper.cpp FrmExplain.cpp FrmGame1.cpp FrmGame2.cpp FrmGame3.cpp FrmHomePage.cpp FrmLanding.cpp FrmLogin.cpp FrmMain.cpp FrmOver.cpp FrmSelect.cpp FrmStart.cpp FrmTop.cpp stdafx.cpp User.cpp UserList.cpp
+         Bird.cpp
+         CommonHelper.cpp
+         FrmExplain.cpp
+         FrmGame1.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmGame2.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmGame3.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmHomePage.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmLanding.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmLogin.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmMain.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmOver.cpp
+         FrmSelect.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmStart.cpp
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame3.h(740): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame2.h(731): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+     1>d:\vs2015program\飞鸟_三排\飞鸟_三排\flybird\FrmGame1.h(689): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式转换
+         FrmTop.cpp
+         stdafx.cpp
+         User.cpp
+         UserList.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fp"x64\Debug\FlyBird.pch" /Fa"x64\Debug\\" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /errorReport:prompt "C:\Users\胡子旋\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2015program\飞鸟_三排\飞鸟_三排\x64\Debug\FlyBird.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmExplain.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmGame1.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmGame2.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmGame3.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmHomePage.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmLanding.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmLogin.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmOver.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmSelect.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmStart.resources /ASSEMBLYRESOURCE:x64\Debug\FlyBird.FrmTop.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\vs2015program\飞鸟_三排\飞鸟_三排\x64\Debug\FlyBird.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 x64\Debug\Bird.obj
+         x64\Debug\CommonHelper.obj
+         x64\Debug\FrmExplain.obj
+         x64\Debug\FrmGame1.obj
+         x64\Debug\FrmGame2.obj
+         x64\Debug\FrmGame3.obj
+         x64\Debug\FrmHomePage.obj
+         x64\Debug\FrmLanding.obj
+         x64\Debug\FrmLogin.obj
+         x64\Debug\FrmMain.obj
+         x64\Debug\FrmOver.obj
+         x64\Debug\FrmSelect.obj
+         x64\Debug\FrmStart.obj
+         x64\Debug\FrmTop.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\User.obj
+         x64\Debug\UserList.obj
+         "x64\Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Bird.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+         FlyBird.vcxproj -> D:\vs2015program\飞鸟_三排\飞鸟_三排\x64\Debug\FlyBird.exe
+     1>已完成生成项目“D:\vs2015program\飞鸟_三排\飞鸟_三排\FlyBird\FlyBird.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:13.17
